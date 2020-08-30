@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Illustrative / card-a-side</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Illustrative-/-card-a-side" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="card-a-side" stroke="#3B3B47">
+            <g id="Icons-/-Illustrative-/-Illustrative-/-Oval">
+                <circle id="Oval" cx="40" cy="40" r="39.5"></circle>
+            </g>
+            <g transform="translate(14.000000, 24.000000)">
+                <path d="M4.5,0.5 L47.5,0.5 C49.709139,0.5 51.5,2.290861 51.5,4.5 L51.5,28.5 C51.5,30.709139 49.709139,32.5 47.5,32.5 L4.5,32.5 C2.290861,32.5 0.5,30.709139 0.5,28.5 L0.5,4.5 C0.5,2.290861 2.290861,0.5 4.5,0.5 Z" id="Rectangle-14"></path>
+                <ellipse id="Oval" cx="41.6" cy="23.3414634" rx="4" ry="4.02439024"></ellipse>
+                <ellipse id="Oval-Copy-3" cx="36" cy="23.3414634" rx="4" ry="4.02439024"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

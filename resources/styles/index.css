@@ -1,0 +1,457 @@
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #09090f;
+  font-weight: 300;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+a {
+  color: #09090f;
+}
+
+a:hover {
+  color: #6c676f;
+}
+
+.active {
+  font-weight: 600;
+}
+
+@media (min-width: 992px) {
+  .wrap {
+    margin: 0 110px;
+  }
+
+  .campaign-img {
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);
+  }
+}
+
+@media (max-width: 575px) {
+  #submenu .nav-link,
+  #submenu .btn {
+    font-size: 14px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  #topNav a {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .bank-nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+}
+
+/* Section */
+
+.section {
+  display: block;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+h2.section-heading {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+h3.section-heading {
+  font-size: 18px;
+}
+
+.section:nth-of-type(odd) {
+  background-color: #f9f8f7;
+}
+
+.section.mobile-app {
+  background-color: #f3f2f1;
+}
+
+.section.footer {
+  background-color: #f8f8f8;
+}
+
+.section.mobile-app ~ .section:nth-child(odd) {
+  background: #fff;
+}
+
+.section-btn {
+  margin-bottom: 20px;
+}
+
+/* Header */
+
+.navbar-brand {
+  margin-right: 2em;
+}
+
+.bank-nav {
+  font-size: 10px;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 24px 0;
+  background: #fff;
+}
+
+.login-btn {
+  font-size: 11px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-left: auto;
+}
+
+/* Main nav */
+
+#mainNav {
+  background-color: #f2f2f3;
+}
+
+#mainNav a {
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+#mainNav .nav-link {
+  padding-right: 1rem;
+}
+
+/* Banner */
+
+.banner {
+  background: #ff3b2d;
+  color: #fff;
+  height: 475px;
+}
+
+.banner h2 {
+  font-size: 2.5rem;
+  font-weight: 300;
+}
+
+.banner a,
+.banner a:hover {
+  color: #fff;
+}
+
+/* Second nav */
+
+#subNav {
+  padding: 25px 0 0 0;
+  background-color: #f9f8f7;
+}
+
+#subNav .nav-link {
+  padding: 0 14px;
+  color: #77737a;
+}
+
+#subNav .nav-link,
+#subNav .btn {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* Footer */
+
+.footer {
+  padding-top: 38px;
+  padding-bottom: 38px;
+}
+
+.footer li {
+  line-height: 1.6;
+}
+
+.footer a {
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.footer-title {
+  font-size: 11px;
+  font-weight: 500;
+  color: #6c676f;
+  text-transform: uppercase;
+}
+
+.footer-notice,
+.footer-notice a {
+  margin-top: 34px;
+  color: #6c676f;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.footer-notice a {
+  text-decoration: underline;
+}
+
+.footer-socials {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 14px;
+}
+
+.footer-socials .app-download {
+  height: 37px;
+}
+
+.footer-socials-icon {
+  width: 22px;
+}
+
+.footer-socials-icon + .footer-socials-icon {
+  margin-left: 10px;
+}
+
+.bank-pro {
+  padding: 15px 0;
+}
+
+/* Rotated tags */
+/* https://css-tricks.com/multi-line-padded-text/#adam-campbells-box-decoration-break-method */
+
+.tag {
+  font-size: 15px;
+}
+
+.tag-rotated-up {
+  transform: rotate(-4deg);
+}
+
+.tag-rotated-down {
+  transform: rotate(4deg);
+}
+
+.tag-red {
+  display: inline;
+  padding: 3px 9px;
+  text-align: center;
+  color: #fff;
+  background-color: #ff4545;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* Discounts */
+
+.discount-special {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.discount-logo {
+  font-size: 45px;
+  font-weight: 600;
+}
+
+.discount-name {
+  padding-bottom: 3px;
+  border-bottom: 1px dashed;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.discount-img {
+  margin-top: 15px;
+}
+
+.discount-desc {
+  margin-top: 10px;
+}
+
+.campaign-img {
+  width: 220px;
+}
+
+.timberland {
+  width: 200px;
+}
+
+.investment-img {
+  margin-top: 25px;
+  margin-bottom: 30px;
+}
+
+/* Link with arrow */
+
+.link-arrow {
+  font-weight: 600;
+}
+
+.link-arrow::after {
+  content: " \2192";
+}
+
+/* Bankcard */
+
+.bankcard {
+  width: 350px;
+  margin-bottom: 20px;
+}
+
+.bankcard-color-opt {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 2px solid #dfdfdf;
+}
+
+.bankcard-color-neon {
+  background-color: #ff4747;
+}
+
+.bankcard-color-black {
+  background-color: #09090f;
+}
+
+.bankcard-color-gray {
+  background-color: #f2f2f3;
+}
+
+.app {
+  width: 250px;
+}
+
+.app-download + .app-download {
+  margin-left: 5px;
+}
+
+.social-icon {
+  width: 70px;
+}
+
+.social + .social {
+  margin-left: 20px;
+}
+
+/* Lists */
+
+.list-unstyled {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-steps li {
+  display: flex;
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+
+.list-steps-img {
+  width: 70px;
+  height: 70px;
+}
+
+.list-connected {
+  position: relative;
+  z-index: 1;
+}
+
+.list-connected li {
+  align-items: center;
+}
+
+.list-connected img {
+  background-color: #f9f8f7;
+  border-radius: 50%;
+}
+
+.list-connected::before {
+  content: "";
+  position: absolute;
+  height: 85%;
+  width: 1px;
+  background-color: #09090f;
+  left: 35px;
+  bottom: 25px;
+  z-index: -1;
+}
+
+.list-checked {
+  list-style-image: url("../../assets/images/icons/checkmark.svg");
+  padding-left: 25px;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+}
+
+.list-checked li {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+/* Boxes */
+
+.box {
+  width: 285px;
+  height: 285px;
+  position: relative;
+  margin-top: 25px;
+}
+
+.box:before {
+  content: "";
+  position: absolute;
+  width: 0;
+  bottom: 0;
+  border-top: 50px solid #09090f;
+  border-left: 50px solid #f9f8f7;
+}
+
+.box:after {
+  content: url("../../assets/images/icons/arrow_forward-white-24dp.svg");
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  bottom: 24px;
+  left: 24px;
+}
+
+.box-red {
+  background-color: #ff4747;
+  color: #fff;
+}
+
+.box-dark-gray {
+  background-color: #3a3a47;
+  color: #fff;
+}
+
+.box-light-gray {
+  background-color: #e5e5e6;
+  color: #09090f;
+}
+
+.box-text {
+  padding: 30px;
+}
+
+.box-text p {
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 1.3;
+}

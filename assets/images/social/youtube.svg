@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.101,50.865 C0.101,78.479 22.483,100.865 50.1,100.865 L50.1,100.865 C77.718,100.865 100.101,78.479 100.101,50.865 L100.101,50.865 C100.101,23.248 77.718,0.865 50.1,0.865 L50.1,0.865 C22.483,0.865 0.101,23.248 0.101,50.865 L0.101,50.865 Z" id="path-1"></path>
+        <path d="M1.073,7.952 L1.005,8.891 C0.789,12.018 0.681,15.148 0.681,18.275 C0.681,21.605 0.802,24.935 1.049,28.265 C1.334,32.141 4.509,35.169 8.394,35.271 C14.1129864,35.5731698 19.8759864,35.7238489 25.683,35.7230371 C31.4900136,35.7221759 37.2970136,35.5698302 43.104,35.266 C46.944,35.167 50.098,32.205 50.439,28.379 C50.741,25.011 50.891,21.644 50.891,18.275 C50.891,14.797 50.731,11.318 50.409,7.84 C50.068,4.13 47.074,1.222 43.355,0.986 L42.093,0.91 C36.623,0.589 31.152,0.429 25.683,0.429 C19.835,0.429 13.988,0.611 8.142,0.978 C4.376,1.215 1.36,4.19 1.073,7.952 Z M21.059,10.723 L33.454,18.076 L21.059,25.428 L21.059,10.723 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mottepank" transform="translate(-790.000000, -4010.000000)">
+            <g id="Group-10" transform="translate(660.000000, 4009.000000)">
+                <g id="youtube" transform="translate(130.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(0.000000, 0.170000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <polygon id="Fill-1" fill="#F60000" mask="url(#mask-2)" points="-2 102.967 102.201 102.967 102.201 -1.235 -2 -1.235"></polygon>
+                    </g>
+                    <g id="Group-6" transform="translate(24.000000, 33.170000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-5"></g>
+                        <polygon id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)" points="-1.42 37.823 52.991 37.823 52.991 -1.672 -1.42 -1.672"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Illustrative / bus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Illustrative-/-bus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bus" stroke="#3B3B47">
+            <g id="Icons-/-Illustrative-/-Illustrative-/-Oval">
+                <circle id="Oval" cx="40" cy="40" r="39.5"></circle>
+            </g>
+            <g id="Group" transform="translate(16.000000, 15.000000)">
+                <path d="M41.3688525,45.0513196 C41.3688525,46.2249267 40.3612197,47.1774194 39.1196721,47.1774194 L9.88032787,47.1774194 C8.63653115,47.1774194 7.63114754,46.2249267 7.63114754,45.0513196 L7.63114754,7.84457478 C7.63114754,3.73269795 11.1533639,0.403225806 15.5032787,0.403225806 L33.4967213,0.403225806 C37.8443869,0.403225806 41.3688525,3.73269795 41.3688525,7.84457478 L41.3688525,45.0513196 L41.3688525,45.0513196 Z" id="Stroke-1433" stroke-linecap="round" stroke-linejoin="round"></path>
+                <ellipse id="Oval-12" cx="34.0444113" cy="39.0175953" rx="2.71654247" ry="2.72727273"></ellipse>
+                <ellipse id="Oval-12-Copy" cx="14.4882265" cy="39.0909091" rx="2.71654247" ry="2.72727273"></ellipse>
+                <path d="M14.15231,48.3870968 C14.15231,49.0551832 13.6105724,49.5967742 12.9450631,49.5967742 L10.9415241,49.5967742 C10.27478,49.5967742 9.7342772,49.0598409 9.7342772,48.3870968 L9.7342772,47.1774194 L14.15231,47.1774194 L14.15231,48.3870968 Z" id="Stroke-1434" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M39.0539493,48.3870968 C39.0539493,49.0551832 38.5122118,49.5967742 37.8467025,49.5967742 L35.8431634,49.5967742 C35.1764194,49.5967742 34.6359165,49.0598409 34.6359165,48.3870968 L34.6359165,47.1774194 L39.0539493,47.1774194 L39.0539493,48.3870968 Z" id="Stroke-1435" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M7.63114754,10.8870968 L41.3688525,10.8870968 M41.3688525,31.0483871 L7.63114754,31.0483871" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle-14" x="17.3688525" y="5.33870968" width="13.4590164" height="2.22580645" rx="1.11290323"></rect>
+                <path d="M0.401639344,18.5646821 C0.401639344,19.8918554 1.4712808,20.9677419 2.81147541,20.9677419 L2.81147541,20.9677419 C4.14239112,20.9677419 5.22131148,19.8863153 5.22131148,18.5646821 L5.22131148,13.3064516 L0.401639344,13.3064516 L0.401639344,18.5646821 Z" id="Stroke-1440" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M43.7786885,18.5646821 C43.7786885,19.8918554 44.84833,20.9677419 46.1885246,20.9677419 L46.1885246,20.9677419 C47.5194403,20.9677419 48.5983607,19.8863153 48.5983607,18.5646821 L48.5983607,13.3064516 L43.7786885,13.3064516 L43.7786885,18.5646821 Z" id="Stroke-1441" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="2.00819672" y1="13.3064516" x2="7.63114754" y2="13.3064516" id="Stroke-1442" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="41.4272727" y1="13.3064516" x2="46.2469449" y2="13.3064516" id="Stroke-1443" stroke-linecap="round" stroke-linejoin="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

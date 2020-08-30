@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Illustrative / owl</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Illustrative-/-owl" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="owl" stroke="#3B3B47">
+            <g id="Icons-/-Illustrative-/-Illustrative-/-Oval">
+                <circle id="Oval" cx="40" cy="40" r="39.5"></circle>
+            </g>
+            <g id="Group-32" transform="translate(19.000000, 15.000000)">
+                <g id="Group-34">
+                    <g id="owl">
+                        <g id="Group-30">
+                            <path d="M5,6.07563611 C5,4.7999451 5,2.77473307 5,0 L11.58349,4.07944968 C13.7339499,2.77886462 16.2761316,2.02707919 19,2.02707919 C21.7176092,2.02707919 24.2543657,2.77541351 26.4016791,4.07049246 L32.78125,0 L32.8342663,6.07410756 M32.9833841,23.1586037 L33,23.1679065 L33,46 L21.625,46 C12.443266,46 5,38.8065462 5,29.9329712 C5,26.8516507 5,24.5406603 5,23" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <g id="Group-29" transform="translate(0.000000, 5.000000)">
+                                <g id="Group-5">
+                                    <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" transform="translate(19.030688, 16.844613) rotate(45.000000) translate(-19.030688, -16.844613) " points="20.4141861 14.6443169 21.2309847 19.0449096 16.830392 18.2281109"></polyline>
+                                    <ellipse id="Oval" cx="28.5" cy="9.56521739" rx="9.5" ry="9.56521739"></ellipse>
+                                    <ellipse id="Oval-Copy-2" cx="9.5" cy="9.56521739" rx="9.5" ry="9.56521739"></ellipse>
+                                    <path d="M24.1818182,9.56521739 C24.1818182,11.9664554 26.115134,13.9130435 28.5,13.9130435 C30.884866,13.9130435 32.8181818,11.9664554 32.8181818,9.56521739" id="Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M5.18181818,9.56521739 C5.18181818,11.9664554 7.11513403,13.9130435 9.5,13.9130435 C11.884866,13.9130435 13.8181818,11.9664554 13.8181818,9.56521739" id="Path" stroke-linecap="round"></path>
+                                </g>
+                            </g>
+                            <path d="M33,24 C27.4771525,24 23,28.9248678 23,35 C23,41.0751322 27.4771525,46 33,46" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

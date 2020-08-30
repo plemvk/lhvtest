@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Illustrative / coffee</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Illustrative-/-coffee" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="coffee" stroke="#3B3B47">
+            <g id="Group-8">
+                <g id="Icons-/-Illustrative-/-Illustrative-/-Oval">
+                    <circle id="Oval" cx="40" cy="40" r="39.5"></circle>
+                </g>
+            </g>
+            <g id="Group" transform="translate(25.000000, 14.000000)" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M11.7818627,45.1929825 C5.60965686,45.3828689 0.605392157,40.2815686 0.791666667,33.8947368 L0.791666667,16.9473684 L28.5,16.9473684 L28.5,33.8947368 C28.5465686,40.2815686 23.5423039,45.3828689 17.370098,45.1929825 L11.7818627,45.1929825 Z" id="Stroke-4174"></path>
+                <path d="M15.0416667,0 C15.1813725,7.12074303 9.59313725,4.27244582 9.5,9.96904025" id="Stroke-5657"></path>
+                <path d="M23.75,0 C23.5637255,7.12074303 17.9754902,4.27244582 18.2083333,9.96904025" id="Stroke-5658"></path>
+                <path d="M28.5,20.9824561 L31.9140625,20.9824561 C35.057276,21.2883408 37.6041667,23.855478 37.6041667,27.0236786 C37.6041667,30.1918792 35.057276,32.7590164 31.9140625,33.0877193 L28.5,33.0877193" id="Stroke-4175"></path>
+            </g>
+        </g>
+    </g>
+</svg>

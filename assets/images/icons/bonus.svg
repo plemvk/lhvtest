@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Illustrative / bonus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Illustrative-/-bonus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bonus" stroke="#3B3B47">
+            <g id="Icons-/-Illustrative-/-Illustrative-/-Oval">
+                <circle id="Oval" cx="40" cy="40" r="39.5"></circle>
+            </g>
+            <g id="Group" transform="translate(17.000000, 17.000000)" stroke-linecap="round" stroke-linejoin="round">
+                <g id="Group-2" transform="translate(16.183908, 0.000000)">
+                    <circle id="Oval" cx="15.3747126" cy="15.3747126" r="15.3747126"></circle>
+                    <path d="M18.9566954,22.5190171 C14.972765,22.5190171 11.7431638,19.291477 11.7431638,15.3054856 C11.7431638,11.3194941 14.972765,8.09195402 18.9566954,8.09195402" id="Stroke-4948"></path>
+                    <line x1="9.71034483" y1="13.1740015" x2="17.9543809" y2="13.1740015" id="Stroke-4949"></line>
+                    <line x1="9.71034483" y1="17.2396396" x2="17.9543809" y2="17.2396396" id="Stroke-4950"></line>
+                </g>
+                <g id="Group-2-Copy" transform="translate(0.000000, 16.183908)">
+                    <path d="M16.1884608,0.0211658678 C15.9189897,0.00711371386 15.6476819,0 15.3747126,0 C6.88349332,0 0,6.88349332 0,15.3747126 C0,23.865932 6.88349332,30.7494253 15.3747126,30.7494253 C23.865932,30.7494253 30.7494253,23.865932 30.7494253,15.3747126 C30.7494253,15.1109634 30.742784,14.8487652 30.7296596,14.5882764" id="Path"></path>
+                    <path d="M18.9566954,22.5190171 C14.972765,22.5190171 11.7431638,19.291477 11.7431638,15.3054856 C11.7431638,11.3194941 14.972765,8.09195402 18.9566954,8.09195402" id="Stroke-4948"></path>
+                    <line x1="9.71034483" y1="13.1740015" x2="17.9543809" y2="13.1740015" id="Stroke-4949"></line>
+                    <line x1="9.71034483" y1="17.2396396" x2="17.9543809" y2="17.2396396" id="Stroke-4950"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

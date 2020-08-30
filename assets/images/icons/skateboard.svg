@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Icons / Illustrative / skateboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons-/-Illustrative-/-skateboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="skateboard" stroke="#3B3B47">
+            <g id="Icons-/-Illustrative-/-Illustrative-/-Oval">
+                <circle id="Oval" cx="40" cy="40" r="39.5"></circle>
+            </g>
+            <g id="Group" transform="translate(17.000000, 17.000000)" stroke-linejoin="round">
+                <path d="M4.93364795,27.0085066 L3.53101784,28.4111367 C-0.343574269,32.2857288 -0.343574269,38.5668136 3.53101784,42.4394218 C7.40560994,46.3159978 13.6847108,46.3159978 17.5593029,42.4394218 L18.961933,41.0367917" id="Stroke-3515"></path>
+                <line x1="21.7677885" y1="10.1751596" x2="10.5447636" y2="21.4001684" id="Stroke-3516"></line>
+                <path d="M41.4113554,18.5962969 L42.8100177,17.189699 C46.6846098,13.3170908 46.6846098,7.03600599 42.8100177,3.16141389 C38.9354256,-0.713178216 32.6563247,-0.713178216 28.7817326,3.16141389 L27.3791025,4.56404401" id="Stroke-3517"></path>
+                <line x1="24.5732471" y1="35.425676" x2="35.7923041" y2="24.1986833" id="Stroke-3518"></line>
+                <polygon id="Stroke-3519" stroke-linecap="round" points="37.1992988 25.6058765 32.9894246 21.3979861 38.6019289 15.7874656 42.8098193 19.995356"></polygon>
+                <polygon id="Stroke-3520" stroke-linecap="round" points="24.5732471 12.9806183 20.3653567 8.77074401 25.9758772 3.16022354 30.1857515 7.36811389"></polygon>
+                <line x1="27.3794993" y1="10.1751596" x2="35.7932961" y2="18.5968921" id="Stroke-3521" stroke-linecap="round"></line>
+                <polygon id="Stroke-3522" stroke-linecap="round" points="20.3651583 42.440017 16.1552841 38.2321266 21.7677885 32.6216061 25.9756788 36.8294965"></polygon>
+                <polygon id="Stroke-3523" stroke-linecap="round" points="7.73890819 29.8157507 3.53101784 25.6058765 9.1415383 19.995356 13.3514126 24.2032463"></polygon>
+                <line x1="10.5453588" y1="27.0085066" x2="18.9611395" y2="35.4262712" id="Stroke-3524" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>
